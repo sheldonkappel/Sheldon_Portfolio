@@ -17,3 +17,7 @@ Python and SQL
 ## [Time Series Analysis for Number of Sunspots in R (School Project)](https://github.com/sheldonkappel/sunspots_time_series_analysis)
 * bullet 1
 * bullet 2
+
+## [Analysis of Car Accidents in the US in Python](https://github.com/sheldonkappel/us_car_accidents_mini_analysis)
+*
+*
