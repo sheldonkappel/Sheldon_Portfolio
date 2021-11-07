@@ -6,6 +6,8 @@ Python and SQL
 * bullet 1
 * bullet 2
 
+<img src = "covid_photo.jpg" alt = "">
+
 ## [Chess Games Mini Analysis in Python](https://github.com/sheldonkappel/chess_mini_analysis)
 * bullet 1
 * bullet 2
