@@ -3,7 +3,7 @@
 Python and SQL
 
 ## [Project 1: Chess Games Mini Analysis in Python](https://github.com/sheldonkappel/chess_mini_analysis)
-<img src = "images/chess.jpg" alt = "">
+<img src = "images/chess.jpg" alt = "" width = "350" height = "231.5">
 For this project, I pulled data from a database of online chess games stored by Lichess, an online chess playing platform. The data though was in what is called a PNG format (portable game notation). This type of file is used to store information specifically about chess games. With python, I converted this data to a usable CSV format and then performed some more extensive cleaning. From there, I performed a few visualizations, including looking at the distribution of the ranks of players  for different opening types.
 
 ## [Project 2: COVID Data Exploration in SQL](https://github.com/sheldonkappel/COVID_data_exploration)
