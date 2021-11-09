@@ -8,8 +8,7 @@ For this project, I pulled data from a database of online chess games stored by 
 
 ## [Project 2: COVID Data Exploration in SQL](https://github.com/sheldonkappel/COVID_data_exploration)
 <img src = "images/covid_stock_photo.jpg" alt = "">
-In this project, I created two CSV files (one about COVID deaths and one about COVID vaccinations) from a dataset concerning COVID from 
-[ourworldindata.org](https://ourworldindata.org/). I then performed some exploratory data analysis to display for instance the continents with the highest death count per capita, percentage of population that have received at least one COVID vaccine, and the countries with the highest infection rate compared to the population, among other things.
+In this project, I created two CSV files (one about COVID deaths and one about COVID vaccinations) from a dataset concerning COVID from (ourworldindata.org). I then performed some exploratory data analysis to display for instance the continents with the highest death count per capita, percentage of population that have received at least one COVID vaccine, and the countries with the highest infection rate compared to the population, among other things.
 
 ## [Project 3: Analysis of Car Accidents in the US in Python](https://github.com/sheldonkappel/us_car_accidents_mini_analysis)
 
