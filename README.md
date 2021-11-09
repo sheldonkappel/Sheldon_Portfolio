@@ -1,6 +1,6 @@
 # Sheldon Kappel Data Analyst Portfolio
 
-**Hey there! My name is Sheldon. I am a recent graduate from The Ohio State University with a degree in Statistics and am looking for a job as a junior data analyst. I created this portfolio to demonstrate some of my skills with SQL and Python. You can find me on Linkedin at [link](https://www.linkedin.com/in/sheldon-kappel/) and my email is sheldonkappel@gmail.com.**
+**Hey there! My name is Sheldon. I am a recent graduate from The Ohio State University with a degree in Statistics and am looking for a job as a junior data analyst. I created this portfolio to demonstrate some of my skills with SQL and Python. You can find me on Linkedin at [https://www.linkedin.com/in/sheldon-kappel/](https://www.linkedin.com/in/sheldon-kappel/) and my email is sheldonkappel@gmail.com.**
 
 ## [Project 1: Chess Games Mini Analysis in Python](https://github.com/sheldonkappel/chess_mini_analysis)
 <img src = "images/chess.jpg" alt = "" width = "500" height = "330.7">
