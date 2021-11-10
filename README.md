@@ -24,7 +24,7 @@ This project consisted of some exploratory data analysis and visualization with 
 ## [Project 4: Nashville Housing Data Cleaning in SQL](https://github.com/sheldonkappel/nashville_housing_data_cleaning/tree/main)
 <img src = "images/house_photo.jpg" alt = "">
 
-As per the title, in this project I took a dataset concerning houses in Nashville and performed some cleaning of it in SQL. Some examples of things I did were handling NULL values, splitting the full address into three separate columns for address, city, annd state, and removing duplicate rows.
+As per the title, in this project I took a dataset concerning houses in Nashville and performed some cleaning of it in SQL. Some examples of things I did were handling NULL values, splitting the full address into three separate columns for address, city, and state, and removing duplicate rows.
 
 ## [Project 5: Time Series Analysis for Number of Sunspots in R (School Project)](https://github.com/sheldonkappel/sunspots_time_series_analysis)
 <img src = "images/nasa-JHyiw_dpALk-unsplash.jpg" alt = "">
